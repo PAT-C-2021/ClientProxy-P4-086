@@ -1,0 +1,7 @@
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\04\ClientProxy-P4-086\ClientProxy-P4-086\bin\Debug\ClientProxy-P4-086.exe.config
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\04\ClientProxy-P4-086\ClientProxy-P4-086\bin\Debug\ClientProxy-P4-086.exe
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\04\ClientProxy-P4-086\ClientProxy-P4-086\bin\Debug\ClientProxy-P4-086.pdb
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\04\ClientProxy-P4-086\ClientProxy-P4-086\obj\Debug\ClientProxy-P4-086.csprojAssemblyReference.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\04\ClientProxy-P4-086\ClientProxy-P4-086\obj\Debug\ClientProxy-P4-086.csproj.CoreCompileInputs.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\04\ClientProxy-P4-086\ClientProxy-P4-086\obj\Debug\ClientProxy-P4-086.exe
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\04\ClientProxy-P4-086\ClientProxy-P4-086\obj\Debug\ClientProxy-P4-086.pdb
